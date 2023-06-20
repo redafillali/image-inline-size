@@ -1,5 +1,5 @@
 === Image Inline Size ===
-Contributors: yourwordpressusername
+Contributors: redafillali
 Donate link: https://yourwebsite.com/donate
 Tags: images, size, inline, performance, CLS, lazyload
 Requires at least: 4.7
